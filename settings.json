@@ -1,0 +1,11 @@
+{
+    "battalion": "TAW AM1",
+    "domain": "am1-test.dystroxic.com",
+    "email": "dystroxic@taw.net",
+    "web_console_local_port": 3000,
+    "admin_steam_ids": [
+        "76561198011089512" # Dystroxic
+    ],
+    "server_prefix": "TAW.net - 1st Bn (US) - ",
+    "server_suffix": ""
+}
