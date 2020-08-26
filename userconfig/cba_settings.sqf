@@ -609,6 +609,7 @@ force force EMR_main_maxWeightJump = 150;
 force force EMR_main_preventHighVaulting = true;
 force force EMR_main_staminaCoefficient = 1;
 
+
 // GRAD Trenches
 force force grad_trenches_functions_allowBigEnvelope = true;
 force force grad_trenches_functions_allowCamouflage = true;
@@ -708,6 +709,11 @@ force taw_am1_enhancedFuelConsumption_enabled = true;
 force taw_am1_enhancedFuelConsumption_fuelConsumptionTimeIdle = 120;
 force taw_am1_enhancedFuelConsumption_fuelConsumptionTimeMax = 40;
 force taw_am1_enhancedFuelConsumption_fuelConsumptionTimeNormal = 60;
+force taw_am1_tagging_mapTagging = true;
+force taw_am1_warcrimes_notifications = true;
+force taw_am1_warcrimes_notifyCivilianCombatant = true;
+force taw_am1_warcrimes_notifyTeamkill = false;
+
 
 // Turret Enhanced
 force force Fat_Lurch_Grid = true;
